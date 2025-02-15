@@ -1,5 +1,7 @@
 # M Centers Download Repo
 
+Note: We are not responsible for these downloads, and they are only here for archival purposes, and not for anything else.
+
 This repo contains the following versions:
 - 1.0 Universal (Dangerous, Disables ClipSVC, Patched, Outdated, Permanent)
 - 3.0 x64/x86 (Safe, Replaces Licensing DLLs, Outdated, Permanent)
